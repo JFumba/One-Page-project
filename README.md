@@ -1,6 +1,6 @@
 # One-Page-project
 ## Date de création: 23 mai 2018
-## Description:
+## Description/Objectifs:
   - one page
   - utilisation d'une scrollbar horizontale
   - header qui disparait qd on scroll vers le bas et qui réapparait dès qu'on remonte
