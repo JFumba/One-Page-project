@@ -7,4 +7,4 @@
   - utilisation de figma pour le mockup, et de jquery,bootstrap et/ou bulma pour le projet
 
 
-### lien figma:https://www.figma.com/file/PM2qvncGs5b8gllzRkwvmh3H/Untitled
+### lien figma:https://www.figma.com/file/PM2qvncGs5b8gllzRkwvmh3H/Untitled?node-id=2%3A2
