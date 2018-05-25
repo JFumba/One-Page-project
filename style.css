@@ -16,3 +16,42 @@
   background: #0788D4;
   width: 0%;
 }
+.navbar {
+
+    height: 80px;
+    position: fixed;
+    top: 0;
+    transition: top 0.1s ease-in-out;
+    width: 100%;
+    box-sizing: border-box;
+}
+.navbar.hide {
+  transform: translateY(-100%);
+}
+.nav-up {
+    top: -40px;
+}
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  float:
+}
+.navbar ul li {
+  list-style: none;
+  line-height: 80px;
+  text-align: center;
+}
+.navbar ul li a {
+  display: block;
+  padding: 0 30px;
+  invert(100%);
+}
+.navbar ul li a:hover {
+  background: #fd2928;
+  color: #fff;
+}
+section {
+  width: 100%;
+  box-sizing:border-box;
+}
